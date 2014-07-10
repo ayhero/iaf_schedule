@@ -1,0 +1,33 @@
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_BS_ROLE_AUTH" not found; SQL statement:
+alter table t_bs_role_auth drop constraint FK_9el6dmhvndb803bj877tbydb1 [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_BS_ROLE_AUTH" not found; SQL statement:
+alter table t_bs_role_auth drop constraint FK_78t393oql30046ktonycfpppe [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_BS_USER_ROLE" not found; SQL statement:
+alter table t_bs_user_role drop constraint FK_72wdb4y5sawdp0395keiptea6 [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_BS_USER_ROLE" not found; SQL statement:
+alter table t_bs_user_role drop constraint FK_rr1lbd2uyvdlunv1e5jaxksor [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_INST_ROLE_AUTH" not found; SQL statement:
+alter table t_inst_role_auth drop constraint FK_lqu54r0yyxy938a4kb8pacd4x [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_INST_ROLE_AUTH" not found; SQL statement:
+alter table t_inst_role_auth drop constraint FK_ax4bepvjfvjpp9ljhu0cdnv4q [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_INST_USER_ROLE" not found; SQL statement:
+alter table t_inst_user_role drop constraint FK_d7aot0wp9a2hpd71la7vs3xn1 [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_INST_USER_ROLE" not found; SQL statement:
+alter table t_inst_user_role drop constraint FK_f3778ekecvioajx2j141luc8i [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_ORD_OPERLOG" not found; SQL statement:
+alter table t_ord_operlog drop constraint FK_4v26ox7nd9x8tra5rk4syf29f [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_PDT_OPERLOG" not found; SQL statement:
+alter table t_pdt_operlog drop constraint FK_fo0drdo7rcwlxv31fanlce6wj [42102-170]
+05-04 11:34:52 jdbc[81]: exception
+org.h2.jdbc.JdbcSQLException: Table "T_RPT_FILE" not found; SQL statement:
+alter table t_rpt_file drop constraint FK_silei4scew08lmtkhi00kcj9g [42102-170]
