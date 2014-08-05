@@ -474,3 +474,5 @@ Scheduler 订单定时器_$_NON_CLUSTERED shutting down.
 Scheduler 订单定时器_$_NON_CLUSTERED paused.
 2014-07-10 16:48:03,550 [INFO] main (org.quartz.core.QuartzScheduler)
 Scheduler 订单定时器_$_NON_CLUSTERED shutdown complete.
+2014-07-10 17:25:19,454 [WARN] main (newland.iaf.IafApplication)
+经营数据报告保存路径未设置, 使用系统默认路径！[C:\Users\Memego-\Desktop\quartzjar/application/rpt]
